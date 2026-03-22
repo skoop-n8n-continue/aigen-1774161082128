@@ -1,0 +1,30 @@
+{
+  "app_id": "aigen-1774161082128",
+  "document_version": 1,
+  "sections": {
+    "app_settings": {
+      "background_color": {
+        "type": "color",
+        "label": "Background Color",
+        "value": "#10181f"
+      },
+      "text_color": {
+        "type": "color",
+        "label": "Text Color",
+        "value": "#00b7af"
+      }
+    },
+    "main_content": {
+      "greeting": {
+        "type": "text",
+        "label": "Greeting Text",
+        "value": "Hello, World!"
+      },
+      "subtext": {
+        "type": "textarea",
+        "label": "Subtext",
+        "value": "Welcome to your first digital signage app."
+      }
+    }
+  }
+}
