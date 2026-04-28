@@ -6,7 +6,7 @@
       "background_color": {
         "type": "color",
         "label": "Background Color",
-        "value": "#D32F2F"
+        "value": "#FF0000"
       },
       "text_color": {
         "type": "color",
